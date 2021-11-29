@@ -1,0 +1,45 @@
+.mydefaultbackground {
+    background-color: rgb(233, 229, 229);
+}
+
+.indexpagenamefont {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.largerfont {
+    font-size: 50px;
+}
+
+.smallerfont {
+    font-size: 25px;
+}
+
+.light {
+    font-weight: lighter;
+}
+
+.aboutmebackground {
+    background-color: rgb(100, 97, 97);
+}
+
+.aboutmeheaders {
+    color: white;
+    font-weight: lighter;
+}
+
+.aboutmecontent {
+    color: white;
+}
+
+.aboutmehr {
+    border-color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+.aboutmelinks {
+    text-decoration: underline;
+    color: white;
+}
